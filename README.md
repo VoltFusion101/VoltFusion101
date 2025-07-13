@@ -1,10 +1,6 @@
-Motivated and adaptable individual with a background in management and basic accounting. <br/>
-Currently expanding expertise in programming, editing and design,<br/>
-with a passion for continuous learning and skill development.<br/>
-I have a keen eye for beauty and love editing to enhance visuals.<br/>
-I enjoy seeing and working with art and nature.<br/>
-While I can't draw, I prefer to work with computers to create something beautiful through digital tools and design.<br/>
-I love chocolate—but not when it’s too sweet—and I can’t stand hot weather!
+Hi, I'm Nia — a curious soul with a management background and a soft spot for design, editing, and code.
+I love learning new things, finding beauty in visuals, and turning ideas into something creative (especially with digital tools, since drawing isn't my thing). 
+Big fan of art and nature, mild chocolate, and cool weather — not necessarily in that order!
 
 <!---
 VoltFusion101/VoltFusion101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
